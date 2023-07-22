@@ -15,7 +15,7 @@ A command line search engine which implements Inverted Index, Strategy pattern.
 Clone the project
 
 ```bash
-  https://github.com/anhtuansggd/Search_Engine.git
+  git clone https://github.com/anhtuansggd/Search_Engine.git
 ```
 
 Go to the project directory
