@@ -15,25 +15,25 @@ A command line search engine which implements Inverted Index, Strategy pattern.
 Clone the project
 
 ```bash
-  git clone https://github.com/anhtuansggd/Search_Engine.git
+git clone https://github.com/anhtuansggd/Search_Engine.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Search_Engine
+cd ./Search_Engine/src/
 ```
 
 Compile source files
 
 ```bash
-  javac --class-path ./search/ search/*.java
+javac --class-path ./search/ search/*.java
 ```
 
 Executes with arguments
 
 ```bash
-  java -classpath ./ search.Main --data ./search/tests.txt
+java -classpath ./ search.Main --data ./search/tests.txt
 ```
 
 
