@@ -1,10 +1,10 @@
 package search;
 import java.util.Map;
 import java.util.ArrayList;
-/**
- *
- * @author tuan
- */
+
+/***
+ * Finder works as a context reference for any strategy
+ ***/
 public class Finder{
     protected static findStrategy strategy;
 
